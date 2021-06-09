@@ -1,4 +1,4 @@
-# MarketDeal
+# EduBangla
 
 The App for this website using Wordpress rest api and used a set of Android Jetpack libraries and used paging 3 library to pagination 
 
@@ -27,9 +27,10 @@ navigation between fragments
 * [ViewPager2](https://developer.android.com/jetpack/androidx/releases/viewpager2) - to manage multiple fragments for categores 
 * [State Flow](https://developer.android.com/kotlin/flow/stateflow-and-sharedflow) - to manage server data on the activity 
 * [Paging library](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) - to paginate recyclerview data
-## App [Link](https://github.com/shaunhossain/Market-Deal/releases/download/V1.0/MarketDeal.apk)
+## App [Link](https://github.com/shaunhossain/Eud-Bangla/releases/download/v0.3-alpha.2/EduBangla.apk)
 
 
 ## Screenshots
 |<img src="screenshots/home_screen.jpg" width=200/>|<img src="screenshots/details_screen.jpg" width=200/>|
 |:----:|:----:|
+
